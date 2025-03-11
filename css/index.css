@@ -50,6 +50,8 @@ body {
     width: 100%;
     min-height: 14vh;
     /* background-color: skyblue; */
+    max-width: 1440px;
+    margin: auto;
 
     display: flex;
     flex-flow: row nowrap;
@@ -93,6 +95,8 @@ body {
 .main {
     width: 100%;
     /* background-color: navajowhite; */
+    max-width: 1440px;
+    margin: auto;
 }
 
 .intro {
@@ -163,6 +167,8 @@ body {
 .footer {
     /* background-color: indianred; */
     width: 100%;
+    max-width: 1440px;
+    margin: auto;
      
     display: flex;
     flex-flow: row-reverse;
